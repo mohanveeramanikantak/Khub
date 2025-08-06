@@ -1,4 +1,3 @@
-
 # 💻 K-HUB Learning & Internship Preparation
 
 Welcome to the official GitHub repository for the **K-HUB Program** at KIET in collaboration with **RCTS – IIIT Hyderabad**. This repository contains all resources, reports, and code developed by junior developers during the 6-month journey toward real-world development and internship readiness.
