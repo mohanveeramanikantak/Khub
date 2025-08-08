@@ -11,7 +11,7 @@ Welcome to the official GitHub repository for the **K-HUB Program** at KIET in c
 ### ├── Tasks/ # Weekly & daily assignments
 ### ├── Projects/ # Mini & major team projects
 ### ├── Resources/ # PDFs, YouTube links, notes
-### ├── Internship/ # IIIT-H RCTS internship prep & updates
+##### ├── Internship/ # IIIT-H RCTS internship prep & updates
 #### └── README.md # You're reading it!
 
 
