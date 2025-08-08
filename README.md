@@ -6,13 +6,13 @@ Welcome to the official GitHub repository for the **K-HUB Program** at KIET in c
 
 ## 📁 Repository Structure
 # K-HUB/
-### ├── DayReports/ # Daily logs and reflections from team members
-### ├── Roadmap/ # Structured learning plan for 6 months
-### ├── Tasks/ # Weekly & daily assignments
-### ├── Projects/ # Mini & major team projects
-### ├── Resources/ # PDFs, YouTube links, notes
+##### ├── DayReports/ # Daily logs and reflections from team members
+##### ├── Roadmap/ # Structured learning plan for 6 months
+##### ├── Tasks/ # Weekly & daily assignments
+##### ├── Projects/ # Mini & major team projects
+##### ├── Resources/ # PDFs, YouTube links, notes
 ##### ├── Internship/ # IIIT-H RCTS internship prep & updates
-#### └── README.md # You're reading it!
+##### └── README.md # You're reading it!
 
 
 ---
