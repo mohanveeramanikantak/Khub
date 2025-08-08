@@ -5,7 +5,7 @@ Welcome to the official GitHub repository for the **K-HUB Program** at KIET in c
 ---
 
 ## 📁 Repository Structure
-# K-HUB/
+### K-HUB/
 ##### ├── DayReports/ # Daily logs and reflections from team members
 ##### ├── Roadmap/ # Structured learning plan for 6 months
 ##### ├── Tasks/ # Weekly & daily assignments
